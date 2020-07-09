@@ -1,0 +1,5 @@
+Hola soy una base de datos
+
+pues eso
+CREATE
+FIN
